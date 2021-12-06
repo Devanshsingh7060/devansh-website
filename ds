@@ -1,0 +1,77 @@
+
+    
+      <!DOCTYPE html>
+          <html>
+          <head>
+            <meta charset="utf-8">
+           <title>Devansh's website</title>
+        <head>
+          <hr>
+      <body>
+        
+
+         <img src="https://www.instagram.com/p/CV5Hw4kvkEL/"alt="Devansh profile picture"> 
+          <img src="https://www.google.com/search?q=computer+science&sxsrf=AOaemvIVq4jm11pXl4zbgx_LqTYCIwAZoA:1638292513304&tbm=isch&source=iu&ictx=1&fir=NCz3X7dEMLZFgM%252CRyJOUNAZWv-ClM%252C_%253BrhqLwes3zFADvM%252CnVBtDmWLIfC1JM%252C_%253BXzknxvRBZrfrCM%252Cu9P1FXdIU3hr9M%252C_%253BwHeBhKgphNJsCM%252CWQKcUvNVl82gyM%252C_%253BfQY_7DP3zvi-5M%252CyYQWGLPVpH3JNM%252C_%253BNpLDyew0z07XIM%252Cp-q1VHQMNyVQlM%252C_&vet=1&usg=AI4_-kTpxzCz7Oke_EDy6WMMiwfOwUZLqg&sa=X&ved=2ahUKEwi2oayay8D0AhUEUGwGHS6VDAQQ_h16BAgaEAE#imgrc=NCz3X7dEMLZFgM"alt="computer science">
+          <h1>Devansh Singh</h1>
+          <p><em>Owner of Devansh Singh's website and a <strong> student </strong></em><p>
+          <p> I am a student who is learning <strong><a href ="https://www.w3schools.com/whatis/">Web development</a></strong> </p>
+
+
+      <hr>
+        <h3>Education and qualifications</h3>
+   
+      <ul>
+          <li>passed class 10th in 2021</li>
+          <li>science student</li>
+          <li> studying <strong><a href="https://www.britannica.com/science/computer-science">computer science</a></strong></li>
+      </ul>
+
+      <hr>
+      <h3>My hobbies</h3>
+
+        <ol>
+         <li>Drawing</li>
+         <li>basketball</li>
+        </ol>   
+          
+          <h3>Work experience</h3>
+       <table>
+         <thead>
+           <tr>
+             <th>Year</th>
+             <th>Work</th>
+           </tr>
+           <thead>
+             <tr>
+               <td>2019-2021</td>
+               <td>started learning computer science</td>
+             </tr>
+             <tr>
+               <td>2021</td>
+               <td>started learning web development</td>
+             </tr>
+             </table>
+           <hr>
+             <h3>Contact me</h3>
+           
+           <title>contact me</title>
+           <h4>My contact details</h4>
+           <p>My address</p>
+              <p>7060874707</p>
+              <p>devanshsingh7060@gmail.com</p>
+           <hr>
+           
+           
+       <form class=""action"mailto:devanshsingh7060@gmail.com"method="post" enctype="text/plain">
+               <label>Your Name:</label>
+         <input type="text" name="your name"><br>
+ <label>Your email:</label> 
+         <input type="email" name="yourEmail"<br>
+        
+          <label>Your message</label>
+         <textarea name="your message" rows="10" cols="30"></textarea><br>
+        
+         <input type="Submit name""><br>
+       </form>
+      </body>
+     <html> 
